@@ -1,0 +1,35 @@
+# ── Data & ML ──
+pandas
+pyarrow
+numpy
+scikit-learn
+joblib
+
+# ── API ──
+fastapi
+uvicorn
+pydantic-settings
+
+# ── Frontend ──
+streamlit>=1.35.0
+plotly
+requests
+
+# ── Testing ──
+pytest
+httpx
+
+# ── Ingesta (BigQuery) ──
+google-cloud-bigquery
+google-cloud-bigquery-storage
+db-dtypes
+pandas-gbq
+
+# ── Análisis / Notebooks ──
+seaborn
+matplotlib
+scipy
+statsmodels
+pmdarima
+xgboost
+tabulate

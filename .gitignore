@@ -1,0 +1,31 @@
+# Entornos Virtuales
+venv/
+.venv/
+env/
+
+# Credenciales y Secretos
+.env
+auth/
+credentials.json
+key.json
+
+# Archivos Temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Entornos de Desarrollo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Jupyter Notebooks Temporales
+.ipynb_checkpoints/
