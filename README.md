@@ -85,7 +85,7 @@ _El sistema se renderizará en el ambiente de escritorio bajo `http://localhost:
 
 - **Plataforma Web (Despliegue):** [https://crimen-prediction.streamlit.app](https://crimen-prediction.streamlit.app)
 - **Visualización de Datos (EDA):** [https://lookerstudio.google.com/s/uKdSgLZupU4](https://lookerstudio.google.com/s/uKdSgLZupU4)
-- **Documentación Académica:** Revisa el documento formal adjunto ([Predicción-Crimen-Perú.pdf](./docs/Predicción-Crimen-Perú.pdf)) para auditar la matematización del modelo y el sustento académico de la investigación de tesis.
+- **Documentación Académica:** Revisa el documento formal adjunto ([Reporte-Prediccion-Crimen-Peru.pdf](./docs/Reporte-Prediccion-Crimen-Peru.pdf)) para auditar la matematización del modelo y el sustento académico de la investigación de tesis.
 
 ---
 
